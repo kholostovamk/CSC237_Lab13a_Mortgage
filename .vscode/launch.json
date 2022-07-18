@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/margaritakholostova/Downloads/CSC237_Lab13a_Mortgage",
+      "program": "/Users/margaritakholostova/Downloads/CSC237_Lab13a_Mortgage/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
