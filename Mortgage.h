@@ -11,11 +11,11 @@ class Mortgage {
         int totalYearsToRepay;
         int numberOfPayments;
     public:
-        double getLoanAmount();
-        double getAnnualInterestRate();
-        double getTotalYearsToRepay();
+        double getLoanAmount(); // to get the variable from private
+        double getAnnualInterestRate(); // to get the variable from private
+        double getTotalYearsToRepay(); // to get the variable from private
 
-        void setLoanAmount(double loanAmount);
+        void setLoanAmount(double loanAmnt);
         void setAnnualInterestRate(double interestRate);
         void setTotalYearsToRepay(double years);
 
